@@ -4,4 +4,4 @@ Pretty chuffed it took a while.
 
 Got lots of ideas to commit though. 
 
-Made a change locally - hoping this will commit to GitHub too. 
+Made a change locally - hoping this will push to GitHub too. 
